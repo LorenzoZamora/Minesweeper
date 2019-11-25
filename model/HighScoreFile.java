@@ -51,6 +51,7 @@ public class HighScoreFile {
             try {
                 BufferedReader br = new BufferedReader(new FileReader(file));
                 tempScores = (br.readLine()).split("\\s+");
+                br.close();
             } catch (IOException e) {
                 System.out.println("ERROR: Couldn't read the scores from the file!");
             }
