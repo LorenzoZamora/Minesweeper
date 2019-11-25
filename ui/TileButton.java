@@ -17,7 +17,7 @@ public class TileButton {
       tile = new Tile(mine, flag, mineCount, row, col);
       this.button = new JButton("");
       this.button.setPreferredSize(new Dimension(53, 53));
-      this.button.setFont(new Font("Arial", Font.BOLD, 22));
+      this.button.setFont(new Font("Arial", Font.BOLD, 21));
       this.button.setBackground(new Color(110,243,150));
       this.button.setBorderPainted(true);
       this.button.setOpaque(true);
