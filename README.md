@@ -8,14 +8,15 @@ There are 3 different difficulty levels available to play:
 <br/>*HARD* - 16x30 Board | 99 Mines | 90 Flags
 
 To win the game, you simply need to flag all of the mines that are 
-on the board; there is no need to open all the non-mine tiles. But, 
-if you happen to click on a mine, then you get blown up and lose the 
-game!
+on the board; there is no need to open all of the non-mine tiles. 
+But, if you happen to click on a tile that has a mine under it, then 
+you get blown up and lose the game!
 
 Additionally, your High Score (how fast you clear the board and not 
-get blown up) is also saved after successful minesweeping. It is also 
-available between different game sessions, so you always have a goal 
-to strive for and keep coming back to!
+get blown up) is also saved after successful minesweeping, so long as
+as you set a new, faster time than the existing scores. Also, these 
+High Scores are available between different game sessions, so you can
+quit at anytime and keep coming back to try and beat them as you wish.
 
 Hope you have fun, and get to sweeping those mines!
 
