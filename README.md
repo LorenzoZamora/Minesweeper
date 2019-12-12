@@ -1,6 +1,6 @@
 ## Minesweeper [CSCI2300 — Object-Oriented Software Design]
 
-Welcome to our version of the classic game **Minesweeper**!
+~ Welcome to our version of the classic game **Minesweeper**! ~
 
 There are 3 different difficulty levels available to play:
 <br/>*EASY* - 8x8 Board | 10 Mines | 10 Flags
